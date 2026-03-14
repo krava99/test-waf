@@ -1,2 +1,1 @@
-# test-waf
 # bookings-list
